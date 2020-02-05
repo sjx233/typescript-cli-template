@@ -1,3 +1,3 @@
-# typescript-package-template
+# typescript-cli-template
 
-Template for Node.js packages in TypeScript.
+Template for Node.js command-line tools in TypeScript.
